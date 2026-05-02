@@ -42,6 +42,7 @@ _FORWARD_ENV_VARS = [
     "CLOUD_ML_REGION",
     "ANTHROPIC_VERTEX_PROJECT_ID",
     "ANTHROPIC_API_KEY",  # non-Vertex usage
+    "ANTHROPIC_BASE_URL",
 ]
 
 
